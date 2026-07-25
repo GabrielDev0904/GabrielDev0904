@@ -14,7 +14,7 @@ Minha intensão é trabalhar e construir minha carreira na área de tecnologia.
 
 ### Minha formação
 no momento estou cursando:
-- Tecnico em Mecatrônica na ETEC Jorge Street | 1/3 Ano
+- Tecnico em Mecatrônica na ETEC Jorge Street | 2/3 Ano
 - Tecnico em Desenvolvimento de Sistemas no SENAI São Caetano do Sul – Cyber e IA | 1/4 Semestre
 
 ---
