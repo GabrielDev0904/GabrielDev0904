@@ -48,6 +48,18 @@ no momento estou cursando:
 <a href="https://www.linkedin.com/in/gabriel-pedrão-catapane-649116402" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5E74FF&height=3&width=600" />
+
+## 🐍 Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielDev0904/GabrielDev0904/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielDev0904/GabrielDev0904/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/GabrielDev0904/GabrielDev0904/output/snake.svg">
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7A800&height=100&section=footer" />
+
 <!--
 ## 🐍 Minhas contribuições
 <picture>
