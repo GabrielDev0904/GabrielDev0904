@@ -33,7 +33,7 @@ no momento estou cursando:
 ---
 
 ## Estatísticas
-<p align="center">
+<p align="flex-start">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielDev0904&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
   <img src="https://streak-stats.demolab.com?user=GabrielDev0904&theme=tokyonight&hide_border=true"/>
 </p>
