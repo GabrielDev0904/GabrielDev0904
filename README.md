@@ -33,14 +33,14 @@ no momento estou cursando:
 
 ---
 
-## Estatísticas
+<!-- ## Estatísticas
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielDev0904&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
   <img src="https://streak-stats.demolab.com?user=GabrielDev0904&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
+-->
 ## Contatos:
 <div>
 <a href="https://www.youtube.com/@gpc4065?si=o5Su65f-sqzfAhtb" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
