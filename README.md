@@ -7,15 +7,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=5E74FF&height=3&width=600" />
 
 ### Sobre mim
-Meu nome é Gabriel Pedrão Catapane, tenho 16 anos e estou em constante aprendizado.
+Meu nome é Gabriel Pedrão Catapane e estou em constante aprendizado.
 Minha intensão é trabalhar e construir minha carreira na área de tecnologia.
 
 ---
 
-### Minha formação
-no momento estou cursando:
-- Tecnico em Mecatrônica na ETEC Jorge Street | 2/3 Ano
-- Tecnico em Desenvolvimento de Sistemas no SENAI São Caetano do Sul – Cyber e IA | 1/4 Semestre
+Tecnico em Desenvolvimento de Sistemas no SENAI São Caetano do Sul – Cyber e IA
 
 ---
 
