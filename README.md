@@ -2,21 +2,18 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=5E74FF&width=435&lines=Gabriel+Pedr%C3%A3o+Catapane;Desenvolvimento+de+sistemas">
 </div>
 
-## Olá, seja bem vindo ao meu Github👋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5E74FF&height=3&width=600" />
+
+### Olá, seja bem vindo ao meu Github👋
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=5E74FF&height=3&width=600" />
 
 ### Sobre mim
 Meu nome é Gabriel Pedrão Catapane e estou em constante aprendizado.
-Minha intensão é trabalhar e construir minha carreira na área de tecnologia.
 
 ---
 
-Tecnico em Desenvolvimento de Sistemas no SENAI São Caetano do Sul – Cyber e IA
-
----
-
-## Meus conhecimentos
+### Meus conhecimentos
 
 <div align="flex-start">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=30px />
@@ -38,7 +35,7 @@ Tecnico em Desenvolvimento de Sistemas no SENAI São Caetano do Sul – Cyber e 
 
 ---
 -->
-## Contatos:
+### Contatos:
 <div>
 <a href="https://www.youtube.com/@gpc4065?si=o5Su65f-sqzfAhtb" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/gabriel.pc0904" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -48,7 +45,7 @@ Tecnico em Desenvolvimento de Sistemas no SENAI São Caetano do Sul – Cyber e 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=5E74FF&height=3&width=600" />
 
-## 🐍 Minhas contribuições
+### 🐍 Minhas contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielDev0904/GabrielDev0904/output/snake-dark.svg">
