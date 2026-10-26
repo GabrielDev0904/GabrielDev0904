@@ -8,7 +8,7 @@ Meu nome é Gabriel Pedrão Catapane e estou em constante aprendizado.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=5E74FF&height=3&width=600" />
 
-###🖥️ FRONT-END
+### 🖥️ FRONT-END
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@ Meu nome é Gabriel Pedrão Catapane e estou em constante aprendizado.
   </a>
 </p>
 
-###👨‍💻 BACK-END
+### 👨‍💻 BACK-END
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@ Meu nome é Gabriel Pedrão Catapane e estou em constante aprendizado.
   </a>
 </p>
 
-###🛠️ FERRAMENTAS
+### 🛠️ FERRAMENTAS
 
 <p align="center">
   <a href="https://skillicons.dev">
