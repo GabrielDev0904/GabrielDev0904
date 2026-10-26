@@ -2,17 +2,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=5E74FF&width=435&lines=Gabriel+Pedr%C3%A3o+Catapane;Desenvolvimento+de+sistemas">
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=5E74FF&height=3&width=600" />
-
 ### Olá, seja bem vindo ao meu Github👋
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=5E74FF&height=3&width=600" />
 
 ### Sobre mim
 Meu nome é Gabriel Pedrão Catapane e estou em constante aprendizado.
 
----
-### FRONT-END
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5E74FF&height=3&width=600" />
+
+###🖥️ FRONT-END
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,7 +17,7 @@ Meu nome é Gabriel Pedrão Catapane e estou em constante aprendizado.
   </a>
 </p>
 
-### BACK-END
+###👨‍💻 BACK-END
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,23 +25,14 @@ Meu nome é Gabriel Pedrão Catapane e estou em constante aprendizado.
   </a>
 </p>
 
-### FERRAMENTAS
+###🛠️ FERRAMENTAS
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
 </p>
----
 
-<!-- ## Estatísticas
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielDev0904&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-  <img src="https://streak-stats.demolab.com?user=GabrielDev0904&theme=tokyonight&hide_border=true" />
-</p>
-
----
--->
 ### Contatos:
 <div>
 <a href="https://www.youtube.com/@gpc4065?si=o5Su65f-sqzfAhtb" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
