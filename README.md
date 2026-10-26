@@ -54,30 +54,3 @@ Meu nome é Gabriel Pedrão Catapane e estou em constante aprendizado.
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A800&height=100&section=footer" />
-
-<!--
-## 🐍 Minhas contribuições
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielDev0904/GabrielDev0904/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielDev0904/GabrielDev0904/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/GabrielDev0904/GabrielDev0904/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F7A800&height=100&section=footer" />
-
-<!--
-**GabrielDev0904/GabrielDev0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=5E74FF&height=3&width=600" />
--->
