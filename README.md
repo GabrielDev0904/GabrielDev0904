@@ -4,7 +4,6 @@
 
 ### Olá, seja bem vindo ao meu Github👋
 
-### Sobre mim
 Meu nome é Gabriel Pedrão Catapane e estou em constante aprendizado.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=5E74FF&height=3&width=600" />
