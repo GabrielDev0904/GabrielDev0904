@@ -24,6 +24,14 @@ Meu nome é Gabriel Pedrão Catapane e estou em constante aprendizado.
   </a>
 </p>
 
+### 🎛️ IoT e Sistemas Embarcados
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,vscode" />
+  </a>
+</p>
+
 ### 🛠️ FERRAMENTAS
 
 <p align="center">
