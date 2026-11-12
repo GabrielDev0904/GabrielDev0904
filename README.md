@@ -40,7 +40,12 @@ Meu nome é Gabriel Pedrão Catapane e estou em constante aprendizado.
   </a>
 </p>
 
-### Contatos:
+<img src="[https://www.credly.com/embedded_badge/d4fe3b3e-d52a-4880-9cc9-c8bd0eaae880](https://www.credly.com/embedded_badge/d4fe3b3e-d52a-4880-9cc9-c8bd0eaae880)" />
+
+### 🪪 LICENÇAS
+<img src="https://images.credly.com/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" width="120" alt="Badge Credly">
+
+### 👨‍💻 Contatos:
 <div>
 <a href="https://www.youtube.com/@gpc4065?si=o5Su65f-sqzfAhtb" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/gabriel.pc0904" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
